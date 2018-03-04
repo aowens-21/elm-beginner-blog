@@ -1,4 +1,4 @@
-# aowens-21.github.io
+# Elm Beginner Blog
 Blog Written in Elm
 
 This is a blog written following [a tutorial](https://absynce.github.io/#) by [Jared Smith](https://github.com/absynce/), 
